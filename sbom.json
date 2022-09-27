@@ -1,0 +1,234 @@
+{
+  "aenum": {
+    "ver": "2.2.6",
+    "vendor": ""
+  },
+  "aio-libs/frozenlist": {
+    "ver": "1.3.0",
+    "vendor": ""
+  },
+  "aio-libs/multidict": {
+    "ver": "6.0.2",
+    "vendor": ""
+  },
+  "aiohttp": {
+    "ver": "3.8.1",
+    "vendor": ""
+  },
+  "aiosignal": {
+    "ver": "1.2.0",
+    "vendor": ""
+  },
+  "amazon-dax-client": {
+    "ver": "2.0.0",
+    "vendor": ""
+  },
+  "amazon-redshift-python-driver": {
+    "ver": "2.0.905",
+    "vendor": ""
+  },
+  "antlr4": {
+    "ver": "0.0.0",
+    "vendor": ""
+  },
+  "arrow": {
+    "ver": "7.0.0",
+    "vendor": ""
+  },
+  "asn1crypto": {
+    "ver": "1.5.1",
+    "vendor": ""
+  },
+  "async-timeout": {
+    "ver": "4.0.2",
+    "vendor": ""
+  },
+  "attrs": {
+    "ver": "21.4.0",
+    "vendor": ""
+  },
+  "aws-data-wrangler": {
+    "ver": "2.15.1",
+    "vendor": ""
+  },
+  "backoff": {
+    "ver": "1.11.1",
+    "vendor": ""
+  },
+  "beautifulsoup4": {
+    "ver": "4.11.1",
+    "vendor": ""
+  },
+  "cffi": {
+    "ver": "1.15.0",
+    "vendor": ""
+  },
+  "charset-normalizer": {
+    "ver": "2.0.10",
+    "vendor": ""
+  },
+  "charset_normalizer": {
+    "ver": "2.0.12",
+    "vendor": ""
+  },
+  "cryptography": {
+    "ver": "36.0.1",
+    "vendor": ""
+  },
+  "dateutil": {
+    "ver": "2.8.2",
+    "vendor": ""
+  },
+  "decorator": {
+    "ver": "5.1.1",
+    "vendor": ""
+  },
+  "et_xmlfile": {
+    "ver": "1.1.0",
+    "vendor": ""
+  },
+  "gremlin_python": {
+    "ver": "3.5.3",
+    "vendor": ""
+  },
+  "hasswp": {
+    "ver": "2022.5.3",
+    "vendor": ""
+  },
+  "idna": {
+    "ver": "3.3",
+    "vendor": ""
+  },
+  "isodate": {
+    "ver": "0.6.1",
+    "vendor": ""
+  },
+  "jmespath.py": {
+    "ver": "1.0.0",
+    "vendor": ""
+  },
+  "jsonpath-ng": {
+    "ver": "1.5.3",
+    "vendor": ""
+  },
+  "lxml": {
+    "ver": "4.8.0",
+    "vendor": ""
+  },
+  "nest_asyncio": {
+    "ver": "1.5.5",
+    "vendor": ""
+  },
+  "numpy": {
+    "ver": "1.22.3",
+    "vendor": ""
+  },
+  "openpyxl": {
+    "ver": "3.0.9",
+    "vendor": ""
+  },
+  "opensearch-py": {
+    "ver": "1.0.0",
+    "vendor": ""
+  },
+  "ordered_dict": {
+    "ver": "0.0.0",
+    "vendor": ""
+  },
+  "packaging": {
+    "ver": "21.3",
+    "vendor": ""
+  },
+  "pandas": {
+    "ver": "1.4.2",
+    "vendor": ""
+  },
+  "pg8000": {
+    "ver": "1.24.1",
+    "vendor": ""
+  },
+  "ply": {
+    "ver": "3.11",
+    "vendor": ""
+  },
+  "psycopg2": {
+    "ver": "2.9.3",
+    "vendor": ""
+  },
+  "pycparser": {
+    "ver": "2.21",
+    "vendor": ""
+  },
+  "pymysql": {
+    "ver": "1.0.2",
+    "vendor": ""
+  },
+  "pyparsing": {
+    "ver": "pyparsing_3.0.8",
+    "vendor": ""
+  },
+  "python-certifi": {
+    "ver": "2021.10.08",
+    "vendor": ""
+  },
+  "python-progressbar": {
+    "ver": "4.0.0",
+    "vendor": ""
+  },
+  "python-utils": {
+    "ver": "3.1.0",
+    "vendor": ""
+  },
+  "pytz": {
+    "ver": "2021.3",
+    "vendor": ""
+  },
+  "request": {
+    "ver": "2.27.1",
+    "vendor": ""
+  },
+  "requests_aws4auth": {
+    "ver": "1.1.1",
+    "vendor": ""
+  },
+  "s3transfer": {
+    "ver": "0.5.2",
+    "vendor": ""
+  },
+  "scramp": {
+    "ver": "1.4.1",
+    "vendor": ""
+  },
+  "six": {
+    "ver": "1.16.0",
+    "vendor": ""
+  },
+  "soupsieve": {
+    "ver": "2.3.2",
+    "vendor": ""
+  },
+  "urllib3": {
+    "ver": "1.26.8",
+    "vendor": ""
+  },
+  "ws": {
+    "ver": "1.1.1",
+    "vendor": ""
+  },
+  "yarl": {
+    "ver": "1.7.2",
+    "vendor": ""
+  },
+  "unity": {
+    "ver": "1.5.2",
+    "vendor": ""
+  },
+  "archer_c5": {
+    "ver": "1.0.2",
+    "vendor": ""
+  },
+  "toylog": {
+    "ver": "1.0.0",
+    "vendor": ""
+  }
+}
